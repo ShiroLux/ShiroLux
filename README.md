@@ -43,7 +43,13 @@ _"Every action will cause a reaction."_
 
 <p>
   <a target="_blank" href="https://www.instagram.com/YobelImanuell" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me!-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/YobelImanuell" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a target="_blank" href="https://twitter.com/YobelImanuell" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
@@ -52,27 +58,4 @@ _"Every action will cause a reaction."_
 ### 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShiroLux&show_icons=true&locale=en" alt="ShiroLux" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiroLux&" alt="GitHub Streak" />
-</div>
-
----
-
-### 🌱 I’m currently learning...
-
-- **Next.js** for building server-side rendered React applications
-- **TypeScript** for adding static types to JavaScript
-
----
-
-### 🤝 Let's Connect!
-
-Feel free to reach out if you want to collaborate on projects, share ideas, or just say hi!
-
----
-
-> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ShiroLux&color=blueviolet)
+  <img src="https://github-readme-stats.vercel.app/api?username=ShiroLux&show_icons=true&locale=en&theme=rad
