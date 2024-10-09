@@ -53,7 +53,6 @@ _"Every action will cause a reaction."_
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ShiroLux&show_icons=true&locale=en" alt="ShiroLux" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiroLux&" alt="ShiroLux" />
 </div>
 
 ---
