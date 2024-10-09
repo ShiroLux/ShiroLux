@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Yobel Imanuel!
 
-![sapiderman GIF](filenew/sapiderman.webp)
+![bebop GIF](filenew/gifbebop.webp)
 
 ## 🚀 Frontend Developer
 
