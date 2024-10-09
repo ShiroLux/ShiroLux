@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Yobel Imanuel!
 
-![Bebop GIF](filenew/gifbebop.webp)
+![Bebop GIF](filenew/sapiderman.webp)
 
 ## 🚀 Frontend Developer
 
@@ -51,13 +51,10 @@ _"Every action will cause a reaction."_
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShiroLux&show_icons=true&locale=en" alt="ShiroLux" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShiroLux&" alt="ShiroLux" />
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShiroLux&show_icons=true&locale=en" alt="ShiroLux" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiroLux&" alt="ShiroLux" />
+</div>
 
 ---
 
