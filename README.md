@@ -53,6 +53,7 @@ _"Every action will cause a reaction."_
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ShiroLux&show_icons=true&locale=en" alt="ShiroLux" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiroLux&" alt="GitHub Streak" />
 </div>
 
 ---
@@ -71,3 +72,7 @@ Feel free to reach out if you want to collaborate on projects, share ideas, or j
 ---
 
 > _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ShiroLux&color=blueviolet)
